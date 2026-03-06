@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+=======
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+>>>>>>> d14245c66a1d1c1da78f162b6aa1d9526689fff7
+Thumbs.db

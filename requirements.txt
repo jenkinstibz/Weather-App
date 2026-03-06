@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Flask
+requests
+=======
+Flask
+requests
+>>>>>>> d14245c66a1d1c1da78f162b6aa1d9526689fff7
+python-dotenv
